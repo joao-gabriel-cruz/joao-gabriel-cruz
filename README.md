@@ -3,21 +3,21 @@
 <h3>meu nome é João<h3>
 
 
-:computer: <p>programador web trainee  <p/>
+ <p>:computer: programador web trainee  <p/>
 
-:mortar_board: <p>estudante de ciência da computação</p>
+ <p>:mortar_board: estudante de ciência da computação</p>
 
 <div>
   <h3>Estou aprendendo</h3>
-  <img style="widt: 100px, heigth: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img style="widt: 100px, heigth: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img style="widt: 100px, heigth: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img style="widt: 100px, heigth: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img style="width: 100px, heigth: 100px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="width: 100px, heigth: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img style="width: 100px, heigth: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img style="width: 100px, heigth: 100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 </div>
 
 <div>
   <h3>Contatos <h3>
-  <a href="https://www.linkedin.com/in/João Gabriel Pinho da Cruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-pinho-da-cruz-2057a1228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: joaogabrielpinhodacru@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div>
