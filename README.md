@@ -2,13 +2,15 @@
 
 <h3>meu nome é João<h3>
 
+ <p> </p>
 
- <p>:computer: programador web trainee  <p/>
+ <p>:computer: programador web trainee na Interface sofware <p/>
 
  <p>:mortar_board: estudante de ciência da computação</p>
 
 <div>
-  <h3>Estou aprendendo</h3>
+  <h3>Knowledges </h3>
+  <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="100px", heigth="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="100px", heigth="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img width="100px", heigth="100px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
