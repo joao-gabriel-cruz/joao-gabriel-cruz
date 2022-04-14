@@ -9,7 +9,7 @@
  <p>:mortar_board: estudante de ciência da computação</p>
 
 <div>
-  <h3>Knowledges </h3>
+  <h3>estudando </h3>
   <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="100px", heigth="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="100px", heigth="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
