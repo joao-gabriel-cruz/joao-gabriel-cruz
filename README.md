@@ -1,12 +1,12 @@
 <h2>Hello Dev!</h2>
 
-<h3>meu nome é João<h3>
+<h3>Meu nome é João<h3>
 
- <p> </p>
+ <p></p>
 
- <p>:computer: programador web trainee na Interface sofware <p/>
+ <p>:computer: Programador web trainee na Interface sofware <p/>
 
- <p>:mortar_board: estudante de ciência da computação</p>
+ <p>:mortar_board: Estudante de ciência da computação</p>
 
 <div>
   <h3>estudando </h3>
