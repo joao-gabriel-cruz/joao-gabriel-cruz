@@ -4,7 +4,7 @@
 
  <p></p>
 
- <p>:computer: Programador mobile junio na Interface sofware <p/>
+ <p>:computer: Programador mobile junior na Interface sofware <p/>
 
  <p>:mortar_board: Estudante de ciência da computação</p>
 
