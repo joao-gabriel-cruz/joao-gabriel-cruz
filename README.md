@@ -9,12 +9,20 @@
  <p>:mortar_board: Estudante de ciência da computação</p>
 
 <div>
-  <h3>estudando </h3>
-  <img width="100px", heigth="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="100px", heigth="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <h3>Tecnologias</h3>
+  <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+  <img width="100px", heigth="100px" width="100px", heigth="100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />         
   <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
+<div>
+  <h3>Estudando</h3>
+   <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+   <img width="100px", heigth="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
+ </div>
 
 <div>
   <h3>Contatos <h3>
