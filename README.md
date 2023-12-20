@@ -2,10 +2,6 @@
 
 <h3>Meu nome é João<h3>
 
- <p></p>
-
- <p>:computer: Desenvolvedor junior na Interface sofware <p/>
-
  <p>:mortar_board: Estudante de ciência da computação</p>
 
 <div>
