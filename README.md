@@ -2,7 +2,7 @@
 
 <h3>Meu nome é João<h3>
 
- <p>:mortar_board: Estudante de ciência da computação</p>
+ <p>:mortar_board: Formado em ciência da computação</p>
 
 <div>
   <h3>Tecnologias</h3>
